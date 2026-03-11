@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "À propos",
+    "process": "Processus",
+    "work": "Projets",
+    "contact": "Contact",
+    "startProject": "Lancer un projet"
+  },
+  "hero": {
+    "badge": "Studio Digital · Propulsé par l'IA",
+    "line1": "Nous concevons des systèmes",
+    "line2": "qui",
+    "line3": "pensent.",
+    "subtitle": "Nous fusionnons design élégant et intelligence artificielle pour créer des produits numériques qui s'adaptent, apprennent et évoluent avec votre ambition.",
+    "cta1": "Lancer votre projet",
+    "cta2": "Voir nos projets",
+    "stat1Num": "150+",
+    "stat1Label": "Projets",
+    "stat2Num": "98%",
+    "stat2Label": "Satisfaction",
+    "stat3Num": "40+",
+    "stat3Label": "Systèmes IA",
+    "scroll": "Défiler"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Des compétences conçues pour",
+    "titleAccent": "l'ère intelligente.",
+    "description": "Du concept au déploiement, nous livrons des solutions numériques complètes propulsées par l'IA, l'automatisation et l'ingénierie moderne.",
+    "items": [
+      {
+        "title": "Développement Web",
+        "description": "Applications web haute performance construites avec des frameworks modernes. Architecture évolutive, rapidité optimale, exécution irréprochable."
+      },
+      {
+        "title": "Intégration IA",
+        "description": "Intégration de l'apprentissage automatique et des LLM dans vos produits. Des moteurs de recommandation aux interfaces conversationnelles."
+      },
+      {
+        "title": "Solutions Intelligentes",
+        "description": "Systèmes métier adaptatifs en temps réel. Analytique prédictive, décisions automatisées, apprentissage continu."
+      },
+      {
+        "title": "Automatisation des Processus",
+        "description": "Optimisation des opérations grâce à des workflows intelligents. Éliminez les tâches répétitives et récupérez des centaines d'heures."
+      },
+      {
+        "title": "Résolution par l'IA",
+        "description": "Des défis complexes, des solutions élégantes. Nous appliquons l'IA avancée là où les méthodes traditionnelles échouent."
+      },
+      {
+        "title": "Optimisation Digitale",
+        "description": "Maximisation de chaque point de contact numérique. Optimisation des performances, de la conversion et de l'expérience utilisateur."
+      }
+    ],
+    "learnMore": "En savoir plus"
+  },
+  "about": {
+    "label": "À propos",
+    "title": "Nous ne créons pas que des sites web.",
+    "titleAccent": "Nous créons de l'intelligence.",
+    "paragraph1": "Nexagen est un studio digital opérant à l'intersection du design et de l'intelligence artificielle. Nous concevons des systèmes à la fois esthétiques, alimentés par les données et en constante évolution.",
+    "paragraph2": "Chaque projet est une occasion de repousser les limites. Nous construisons des produits qui pensent, s'adaptent et évoluent — pour que votre entreprise garde toujours une longueur d'avance.",
+    "stat1Label": "Projets livrés",
+    "stat2Label": "Taux de rétention",
+    "stat3Label": "Pays servis",
+    "stat4Label": "Intégrations IA"
+  },
+  "process": {
+    "label": "Processus",
+    "title": "De la vision à la",
+    "titleAccent": "vélocité.",
+    "description": "Une méthodologie affinée sur des centaines de projets. Assez structurée pour livrer, assez flexible pour innover.",
+    "steps": [
+      {
+        "title": "Comprendre",
+        "description": "Recherche approfondie, entretiens et analyse de marché pour définir la stratégie idéale."
+      },
+      {
+        "title": "Concevoir",
+        "description": "Des wireframes aux prototypes haute fidélité. Chaque pixel est intentionnel, chaque interaction est réfléchie."
+      },
+      {
+        "title": "Construire",
+        "description": "Code propre et modulaire. Stack moderne. Tests rigoureux. Conçu pour durer et évoluer."
+      },
+      {
+        "title": "Lancer",
+        "description": "Déploiement fluide avec surveillance, optimisation et livraison sans interruption."
+      },
+      {
+        "title": "Évoluer",
+        "description": "Itération post-lancement guidée par les données. Amélioration continue, impact croissant."
+      }
+    ]
+  },
+  "portfolio": {
+    "label": "Travaux sélectionnés",
+    "title": "Des projets qui parlent.",
+    "items": [
+      { "title": "Meridian AI Dashboard", "category": "Intelligence des données" },
+      { "title": "Stratos Commerce", "category": "Plateforme E-Commerce" },
+      { "title": "Pulse Neural Engine", "category": "Apprentissage automatique" },
+      { "title": "Vertex Automation", "category": "Systèmes de workflows" }
+    ]
+  },
+  "testimonials": {
+    "label": "Témoignages",
+    "title": "La confiance des innovateurs.",
+    "items": [
+      {
+        "quote": "Nexagen a complètement transformé notre infrastructure numérique. Les systèmes IA qu'ils ont conçus ont augmenté notre efficacité opérationnelle de 340%. Leur travail est d'un tout autre niveau.",
+        "author": "Sarah Chen",
+        "role": "CTO, Meridian Labs"
+      },
+      {
+        "quote": "Leur approche de l'automatisation nous a fait économiser plus de 200 heures par mois. Chaque solution était intentionnelle, précise et pensée pour le long terme. Un partenariat qui a redéfini notre trajectoire.",
+        "author": "Marcus Rivera",
+        "role": "PDG, Stratos Ventures"
+      },
+      {
+        "quote": "La plateforme qu'ils ont conçue n'est pas seulement exceptionnelle visuellement — elle pense. Adaptative, intelligente, infiniment évolutive. Le meilleur investissement de notre décennie.",
+        "author": "Elena Volkov",
+        "role": "Fondatrice, Pulse Analytics"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à construire quelque chose",
+    "titleAccent": "d'extraordinaire ?",
+    "description": "Explorons ensemble comment des solutions numériques intelligentes peuvent accélérer votre entreprise. Sans engagement — juste une conversation.",
+    "button": "Parlons-en →"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Lancez votre projet.",
+    "description": "Dites-nous ce que vous construisez. Nous vous répondrons sous 24 heures pour discuter de la suite.",
+    "email": "hello@nexagen.studio",
+    "placeholderName": "Votre nom",
+    "placeholderEmail": "Votre email",
+    "placeholderType": "Type de projet (ex: Application Web, Intégration IA)",
+    "placeholderMessage": "Parlez-nous de votre projet...",
+    "submit": "Envoyer le message →"
+  },
+  "footer": {
+    "tagline": "Nous concevons des expériences numériques intelligentes qui font avancer les entreprises.",
+    "studioCol": "Studio",
+    "connectCol": "Suivez-nous",
+    "copyright": "© 2026 Nexagen Studio",
+    "madeWith": "Conçu avec intelligence"
+  },
+  "loading": {
+    "percent": "%"
+  }
+}

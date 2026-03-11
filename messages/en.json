@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "process": "Process",
+    "work": "Work",
+    "contact": "Contact",
+    "startProject": "Start a Project"
+  },
+  "hero": {
+    "badge": "Digital Studio · AI-Powered",
+    "line1": "We design systems",
+    "line2": "that",
+    "line3": "think.",
+    "subtitle": "We merge elegant design with artificial intelligence to build digital products that adapt, learn, and scale with your ambition.",
+    "cta1": "Start Your Project",
+    "cta2": "View Our Work",
+    "stat1Num": "150+",
+    "stat1Label": "Projects",
+    "stat2Num": "98%",
+    "stat2Label": "Satisfaction",
+    "stat3Num": "40+",
+    "stat3Label": "AI Systems",
+    "scroll": "Scroll"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Capabilities built for",
+    "titleAccent": "the intelligent era.",
+    "description": "From concept to scale, we deliver end-to-end digital solutions powered by AI, automation, and modern engineering.",
+    "items": [
+      {
+        "title": "Web Development",
+        "description": "High-performance web applications built with modern frameworks. Scalable architecture, blazing speed, flawless execution."
+      },
+      {
+        "title": "AI Integration",
+        "description": "Embedding machine learning and LLMs into your products. From recommendation engines to natural language interfaces."
+      },
+      {
+        "title": "Intelligent Solutions",
+        "description": "Smart business systems that adapt to real-time data. Predictive analytics, automated decisions, continuous learning."
+      },
+      {
+        "title": "Process Automation",
+        "description": "Streamlining operations through intelligent workflows. Eliminate repetitive tasks and reclaim hundreds of hours."
+      },
+      {
+        "title": "AI Problem Solving",
+        "description": "Complex challenges, elegant solutions. We apply advanced AI where traditional methods fall short."
+      },
+      {
+        "title": "Digital Optimization",
+        "description": "Maximizing every digital touchpoint. Performance tuning, conversion optimization, data-driven UX refinement."
+      }
+    ],
+    "learnMore": "Learn more"
+  },
+  "about": {
+    "label": "About",
+    "title": "We don't just build websites.",
+    "titleAccent": "We build intelligence.",
+    "paragraph1": "Nexagen is a digital studio operating at the intersection of design and artificial intelligence. We engineer systems that are beautiful, alive with data, and continuously evolving.",
+    "paragraph2": "Every project is an opportunity to push boundaries. We build products that think, adapt, and scale — so your business always stays ahead.",
+    "stat1Label": "Projects shipped",
+    "stat2Label": "Client retention",
+    "stat3Label": "Countries served",
+    "stat4Label": "AI integrations"
+  },
+  "process": {
+    "label": "Process",
+    "title": "From vision to",
+    "titleAccent": "velocity.",
+    "description": "A methodology refined over hundreds of projects. Structured enough to deliver, flexible enough to innovate.",
+    "steps": [
+      {
+        "title": "Understand",
+        "description": "Deep research, stakeholder interviews, and market analysis to define the perfect strategy."
+      },
+      {
+        "title": "Design",
+        "description": "From wireframes to high-fidelity prototypes. Every pixel intentional, every interaction considered."
+      },
+      {
+        "title": "Build",
+        "description": "Clean, modular code. Modern stack. Rigorous testing. Engineered to last and scale."
+      },
+      {
+        "title": "Launch",
+        "description": "Seamless deployment with monitoring, optimization, and zero-downtime delivery."
+      },
+      {
+        "title": "Scale",
+        "description": "Post-launch iteration driven by real data. Continuous improvement, growing impact."
+      }
+    ]
+  },
+  "portfolio": {
+    "label": "Selected Work",
+    "title": "Projects that speak.",
+    "items": [
+      { "title": "Meridian AI Dashboard", "category": "Data Intelligence" },
+      { "title": "Stratos Commerce", "category": "E-Commerce Platform" },
+      { "title": "Pulse Neural Engine", "category": "Machine Learning" },
+      { "title": "Vertex Automation", "category": "Workflow Systems" }
+    ]
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "Trusted by innovators.",
+    "items": [
+      {
+        "quote": "Nexagen transformed our digital infrastructure completely. The AI systems they engineered increased our operational efficiency by 340%. Their work is genuinely on another level.",
+        "author": "Sarah Chen",
+        "role": "CTO, Meridian Labs"
+      },
+      {
+        "quote": "Their approach to automation saved us over 200 hours monthly. Every solution felt intentional, precise, and built for the long term. A partnership that redefined our trajectory.",
+        "author": "Marcus Rivera",
+        "role": "CEO, Stratos Ventures"
+      },
+      {
+        "quote": "The platform they designed doesn't just look exceptional — it thinks. Adaptive, intelligent, endlessly scalable. The best investment we've made this decade.",
+        "author": "Elena Volkov",
+        "role": "Founder, Pulse Analytics"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to build something",
+    "titleAccent": "extraordinary?",
+    "description": "Let's explore how intelligent digital solutions can accelerate your business. No pressure — just a conversation.",
+    "button": "Let's Talk →"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Start your project.",
+    "description": "Tell us what you're building. We'll respond within 24 hours to discuss how we can help.",
+    "email": "hello@nexagen.studio",
+    "placeholderName": "Your name",
+    "placeholderEmail": "Your email",
+    "placeholderType": "Project type (e.g., Web App, AI Integration)",
+    "placeholderMessage": "Tell us about your project...",
+    "submit": "Send Message →"
+  },
+  "footer": {
+    "tagline": "Engineering intelligent digital experiences that move businesses forward.",
+    "studioCol": "Studio",
+    "connectCol": "Connect",
+    "copyright": "© 2026 Nexagen Studio",
+    "madeWith": "Engineered with intelligence"
+  },
+  "loading": {
+    "percent": "%"
+  }
+}
